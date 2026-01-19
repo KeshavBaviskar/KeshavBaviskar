@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/keshav_baviskar_">
-    <img src="https://leetcard.io/github-readme-stats/keshav_baviskar_?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats-six.vercel.app/?username=keshav_baviskar_&theme=tokyonight" alt="LeetCode Stats" />
   </a>
 </div>
 
@@ -83,6 +83,12 @@
 ### 📈 GitHub Consistency
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KeshavBaviskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeshavBaviskar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  
+  <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeshavBaviskar&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
@@ -95,6 +101,6 @@
   <a href="mailto:kbaviskar787@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <br/> <br/> <img src="https://komarev.com/ghpvc/?username=KeshavBaviskar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br/> <br/> 
+  <img src="https://komarev.com/ghpvc/?username=KeshavBaviskar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-
