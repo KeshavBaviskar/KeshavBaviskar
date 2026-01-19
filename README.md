@@ -39,7 +39,7 @@
         <ul>
           <li><b>Codeforces:</b> Pupil (Max Rating: 1200+) 📈</li>
           <li><b>CodeChef:</b> Active Participant</li>
-          <li><b>Contests:</b> Regular participation in weekly rounds</li>
+          <li><b>Contests:</b> Participated in 40+ contests</li>
           <li><b>Strong Topics:</b> Graphs, DP</li>
         </ul>
       </td>
