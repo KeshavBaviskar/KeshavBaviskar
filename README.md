@@ -83,7 +83,7 @@
 ### 📈 GitHub Consistency
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeshavBaviskar&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 ---
@@ -95,4 +95,5 @@
   <a href="mailto:kbaviskar787@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
