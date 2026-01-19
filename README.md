@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/keshav_baviskar_">
-    <img src="https://leetcode-stats-six.vercel.app/?username=keshav_baviskar_&theme=tokyonight" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/keshav_baviskar_" />
   </a>
 </div>
 
