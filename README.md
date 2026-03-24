@@ -12,7 +12,7 @@
 
 - 🎓 I am a **Final Year Computer Science Student** aiming for Software Engineering roles.
 - 💻 I am learning **Full Stack Development (MERN)**.
-- 🧠 I have a strong command over **Data Structures & Algorithms** (Solved 800+ Problems).
+- 🧠 I am good at **Data Structures & Algorithms** (Solved 800+ Problems).
 - 🏆 **Competitive Programming:** Active on Codeforces (Pupil) & LeetCode.
 - ⚡ **Current Focus:** Mastering System Design and Advanced DSA patterns.
 
